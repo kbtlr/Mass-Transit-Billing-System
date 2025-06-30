@@ -1,0 +1,12 @@
+user_id,station,direction,time
+user1,station1,IN,2024-10-01T11:40:00
+user2,station3,IN,2024-10-01T11:50:00
+user3,station1,IN,2024-10-01T11:55:00
+user1,station3,OUT,2024-10-01T13:55:00
+user2,station4,IN,2024-10-03T06:30:00
+user2,station2,OUT,2024-10-03T09:51:25
+user1,station1,IN,2024-10-07T10:20:00
+user1,station1,OUT,2024-10-11T10:20:05
+user3,station2,OUT,2024-10-15T08:10:00
+user2,station2,IN,2024-10-15T08:25:00
+user1,station2,OUT,2024-10-15T011:30:00

@@ -6,7 +6,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Tuple
 
-# Set global constraints for use later in the algorithm
+# Set global beans for use later in the algorithm
 BASE = 2.00
 DAILY_CAP = 15.00
 MONTHLY_CAP = 100.00

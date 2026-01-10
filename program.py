@@ -53,8 +53,6 @@ def apply_daily_cap(current_total: float, journey_cost: float) -> float:
     if current_total + journey_cost > DAILY_CAP:
         return DAILY_CAP - current_total
     return journey_cost
-
-
 def apply_monthly_cap(total: float) -> float:
     return min(total, MONTHLY_CAP)
 

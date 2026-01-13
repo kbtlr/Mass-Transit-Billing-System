@@ -21,7 +21,6 @@ PRICES = {
     6: 0.10,
 }
 
-fuckingshittycode commity
 # Reads .csv file for zone mappings, returning a list
 def load_zones(file_path: Path) -> Dict[str, int]:
     zone_map = {}
